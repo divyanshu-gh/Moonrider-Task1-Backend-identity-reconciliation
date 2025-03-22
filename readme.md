@@ -4,6 +4,10 @@ This project is a FastAPI-based backend microservice built as part of Task 1 for
 It is designed to resolve user identities based on multiple contact inputs (email and phone number), handling linking of primary and secondary contacts based on overlaps.
 
 ---
+## Demo Video
+
+[Click here to watch the demo video](https://drive.google.com/file/d/13Mtl2b7A7WkVIqRUEcbRKbRwFK2rTrKv/view?usp=sharing)
+
 
 ## Features
 
